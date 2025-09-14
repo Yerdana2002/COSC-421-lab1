@@ -1,0 +1,60 @@
+Start time: 2025-09-14 21:47:00+00:00 End time 2025-09-15 21:47:00+00:00 destination codes {('CYLW', 'CYYJ'), ('CYLW', 'CYYC'), ('CYLW', 'CZVL'), ('CYLW', 'CYYZ'), ('CYLW', 'CYQQ'), ('CYLW', 'CYCD'), ('CYLW', 'CYXS'), ('CYLW', 'CYEG'), ('CYLW', 'CYVR')}
+
+Start time: 2025-09-14 20:25:00+00:00 End time 2025-09-15 20:25:00+00:00 destination codes {('CYVR', 'CYYJ'), ('CYVR', 'CYXY'), ('CYVR', 'CYHZ'), ('CYVR', 'CYOW'), ('CYVR', 'CYYC'), ('CYVR', 'CZMT'), ('CYVR', 'CYCG'), ('CYVR', 'CAD4'), ('CYVR', 'CYQZ'), ('CYVR', 'CYKA'), ('CYVR', 'CYQR'), ('CYVR', 'CYBD'), ('CYVR', 'CYYD'), ('CYVR', 'CYZT'), ('CYVR', 'CAB4'), ('CYVR', 'CYZF'), ('CYVR', 'CYPW'), ('CYVR', 'CAC8'), ('CYVR', 'CYCD'), ('CYVR', 'CYXC'), ('CYVR', 'CYYZ'), ('CYVR', 'CYWH'), ('CYVR', 'CYQQ'), ('CYVR', 'CBBC'), ('CYVR', 'CYXJ'), ('CYVR', 'CYPR'), ('CYVR', 'CYEG'), ('CYVR', 'CYZP'), ('CYVR', 'CYXS'), ('CYVR', 'CYHM'), ('CYVR', 'CYHC'), ('CYVR', 'CYXE'), ('CYVR', 'CYWG'), ('CYVR', 'CYAZ'), ('CYVR', 'CYBL'), ('CYVR', 'CYYF'), ('CYVR', 'CYUL'), ('CYVR', 'CYXT'), ('CYVR', 'CYLW'), ('CYVR', 'CYWL')}
+
+Start time: 2025-09-14 20:25:00+00:00 End time 2025-09-15 20:25:00+00:00 destination codes {('CYYZ', 'CYUL'), ('CYYZ', 'CYQB'), ('CYYZ', 'CYQX'), ('CYYZ', 'CYYC'), ('CYYZ', 'CYQY'), ('CYYZ', 'CYQT'), ('CYYZ', 'CYSJ'), ('CYYZ', 'CYXX'), ('CYYZ', 'CYYT'), ('CYYZ', 'CYYB'), ('CYYZ', 'CYOW'), ('CYYZ', 'CYQG'), ('CYYZ', 'CYWG'), ('CYYZ', 'CYZF'), ('CYYZ', 'CYQR'), ('CYYZ', 'CYVR'), ('CYYZ', 'CYYG'), ('CYYZ', 'CYLW'), ('CYYZ', 'CYDF'), ('CYYZ', 'CYSB'), ('CYYZ', 'CYXE'), ('CYYZ', 'CYTS'), ('CYYZ', 'CYYJ'), ('CYYZ', 'CYEG'), ('CYYZ', 'CYQM'), ('CYYZ', 'CYHZ'), ('CYYZ', 'CYXU'), ('CYYZ', 'CCR3'), ('CYYZ', 'CYFC'), ('CYYZ', 'CYAM')}
+
+Start time: 2025-09-14 20:45:00+00:00 End time 2025-09-15 20:45:00+00:00 destination codes {('CYUL', 'CYVP'), ('CYUL', 'CYYC'), ('CYUL', 'CYTZ'), ('CYUL', 'CYDF'), ('CYUL', 'CYZV'), ('CYUL', 'CYUY'), ('CYUL', 'CYGL'), ('CYUL', 'CYYT'), ('CYUL', 'CYHZ'), ('CYUL', 'CYYZ'), ('CYUL', 'CYSJ'), ('CYUL', 'CYQR'), ('CYUL', 'CYQB'), ('CYUL', 'CYQM'), ('CYUL', 'CYQY'), ('CYUL', 'CYVR'), ('CYUL', 'CYBG'), ('CYUL', 'CYEG'), ('CYUL', 'CYOW'), ('CYUL', 'CZBF'), ('CYUL', 'CYVO'), ('CYUL', 'CYGK'), ('CYUL', 'CYWG'), ('CYUL', 'CYWK'), ('CYUL', 'CYYJ'), ('CYUL', 'CYMT'), ('CYUL', 'CYYG'), ('CYUL', 'CYFC'), ('CYUL', 'CYGW')}
+
+Start time: 2025-09-14 21:50:00+00:00 End time 2025-09-15 21:50:00+00:00 destination codes {('CYYC', 'CYUL'), ('CYYC', 'CYYZ'), ('CYYC', 'CYXJ'), ('CYYC', 'CYYJ'), ('CYYC', 'CYXU'), ('CYYC', 'CYQL'), ('CYYC', 'CYKA'), ('CYYC', 'CYXH'), ('CYYC', 'CYXS'), ('CYYC', 'CYQR'), ('CYYC', 'CYXC'), ('CYYC', 'CYYG'), ('CYYC', 'CYQM'), ('CYYC', 'CYWG'), ('CYYC', 'CYYF'), ('CYYC', 'CYEG'), ('CYYC', 'CYQF'), ('CYYC', 'CYBR'), ('CYYC', 'CYBF'), ('CYYC', 'CYMM'), ('CYYC', 'CYQQ'), ('CYYC', 'CYXT'), ('CYYC', 'CYHZ'), ('CYYC', 'CYXX'), ('CYYC', 'CYLW'), ('CYYC', 'CYHM'), ('CYYC', 'CYKF'), ('CYYC', 'CYVR'), ('CYYC', 'CYXE'), ('CYYC', 'CYYT'), ('CYYC', 'CYQU'), ('CYYC', 'CYQT'), ('CYYC', 'CYOW'), ('CYYC', 'CYZF'), ('CYYC', 'CYCD')}
+
+Start time: 2025-09-14 20:05:00+00:00 End time 2025-09-15 20:05:00+00:00 destination codes {('CYEG', 'CYZH'), ('CYEG', 'CYYZ'), ('CYEG', 'CYHZ'), ('CYEG', 'CYQQ'), ('CYEG', 'CYZT'), ('CYEG', 'CYYC'), ('CYEG', 'CYQR'), ('CYEG', 'CYWG'), ('CYEG', 'CYXS'), ('CYEG', 'CYXX'), ('CYEG', 'CYQU'), ('CYEG', 'CYXE'), ('CYEG', 'CYXY'), ('CYEG', 'CYHM'), ('CYEG', 'CYZF'), ('CYEG', 'CYVR'), ('CYEG', 'CYLW'), ('CYEG', 'CYUL'), ('CYEG', 'CYMM'), ('CYEG', 'CYOW'), ('CYEG', 'CYYJ')}
+
+Start time: 2025-09-14 21:50:00+00:00 End time 2025-09-15 21:50:00+00:00 destination codes {('CYOW', 'CYYC'), ('CYOW', 'CYQB'), ('CYOW', 'CYYZ'), ('CYOW', 'CYYT'), ('CYOW', 'CYSB'), ('CYOW', 'CYUL'), ('CYOW', 'CYQM'), ('CYOW', 'CYYJ'), ('CYOW', 'CYWG'), ('CYOW', 'CYYG'), ('CYOW', 'CYFC'), ('CYOW', 'CYQT'), ('CYOW', 'CYTZ'), ('CYOW', 'CYGK'), ('CYOW', 'CYFB'), ('CYOW', 'CYHZ'), ('CYOW', 'CYVR'), ('CYOW', 'CYEG')}
+
+Start time: 2025-09-14 22:10:00+00:00 End time 2025-09-15 22:10:00+00:00 destination codes {('CYWG', 'CYSK'), ('CYWG', 'CYYQ'), ('CYWG', 'CYOW'), ('CYWG', 'CYYZ'), ('CYWG', 'CYHZ'), ('CYWG', 'CYUL'), ('CYWG', 'CYQT'), ('CYWG', 'CYQR'), ('CYWG', 'CYTH'), ('CYWG', 'CYYC'), ('CYWG', 'CYRT'), ('CYWG', 'CYFB'), ('CYWG', 'CYXE'), ('CYWG', 'CYVR'), ('CYWG', 'CYEG'), ('CYWG', 'CYFO'), ('CYWG', 'CYHU')}
+
+Start time: 2025-09-14 22:05:00+00:00 End time 2025-09-15 22:05:00+00:00 destination codes {('CYHZ', 'CYSJ'), ('CYHZ', 'CYKF'), ('CYHZ', 'CYYR'), ('CYHZ', 'CYEG'), ('CYHZ', 'CYUL'), ('CYHZ', 'CYQX'), ('CYHZ', 'CYHM'), ('CYHZ', 'CYTZ'), ('CYHZ', 'CYWG'), ('CYHZ', 'CYYT'), ('CYHZ', 'CYOW'), ('CYHZ', 'CYQY'), ('CYHZ', 'CYDF'), ('CYHZ', 'CYYZ'), ('CYHZ', 'CYYC'), ('CYHZ', 'CYVR')}
+
+Start time: 2025-09-14 22:20:00+00:00 End time 2025-09-15 22:20:00+00:00 destination codes {('CYQB', 'CYZV'), ('CYQB', 'CYUY'), ('CYQB', 'CYBC'), ('CYQB', 'CYUL'), ('CYQB', 'CYYR'), ('CYQB', 'CYVO'), ('CYQB', 'CYGP'), ('CYQB', 'CYTZ'), ('CYQB', 'CYGR'), ('CYQB', 'CYOW'), ('CYQB', 'CYHU'), ('CYQB', 'CYYZ')}
+
+Start time: 2025-09-15 00:15:00+00:00 End time 2025-09-16 00:15:00+00:00 destination codes {('CYXE', 'CYVR'), ('CYXE', 'CYPA'), ('CYXE', 'CYUL'), ('CYXE', 'CYEG'), ('CYXE', 'CYYZ'), ('CYXE', 'CZFD'), ('CYXE', 'CYWG'), ('CYXE', 'CYYC')}
+
+Start time: 2025-09-14 22:05:00+00:00 End time 2025-09-15 22:05:00+00:00 destination codes {('CYYJ', 'CYLW'), ('CYYJ', 'CYKA'), ('CYYJ', 'CYYZ'), ('CYYJ', 'CYOW'), ('CYYJ', 'CYEG'), ('CYYJ', 'CYXS'), ('CYYJ', 'CYYC'), ('CYYJ', 'CYVR'), ('CYYJ', 'CYUL')}
+
+Start time: 2025-09-14 21:15:00+00:00 End time 2025-09-15 21:15:00+00:00 destination codes {('CYQR', 'CYVR'), ('CYQR', 'CYXE'), ('CYQR', 'CYYZ'), ('CYQR', 'CYEG'), ('CYQR', 'CYYC')}
+
+Start time: 2025-09-14 22:30:00+00:00 End time 2025-09-15 22:30:00+00:00 destination codes {('CYYT', 'CYDF'), ('CYYT', 'CYQM'), ('CYYT', 'CYHZ'), ('CYYT', 'CYOW'), ('CYYT', 'CYYC'), ('CYYT', 'CYYZ'), ('CYYT', 'CYQX'), ('CYYT', 'CYUL')}
+
+Start time: 2025-09-14 23:25:00+00:00 End time 2025-09-15 23:25:00+00:00 destination codes {('CYQT', 'CYWP'), ('CYQT', 'CYTZ'), ('CYQT', 'CYFH'), ('CYQT', 'CYYC'), ('CYQT', 'CYKP'), ('CYQT', 'CYYZ'), ('CYQT', 'CYXL'), ('CYQT', 'CYOW'), ('CYQT', 'CYWG')}
+
+Start time: 2025-09-14 23:59:00+00:00 End time 2025-09-15 23:59:00+00:00 destination codes {('CYXU', 'CYYZ'), ('CYXU', 'CYYC')}
+
+Start time: 2025-09-15 08:20:00+00:00 End time 2025-09-16 08:20:00+00:00 destination codes {('CYYG', 'CYOW'), ('CYYG', 'CYYZ'), ('CYYG', 'CYUL'), ('CYYG', 'CYYC')}
+
+Start time: 2025-09-14 21:00:00+00:00 End time 2025-09-15 21:00:00+00:00 destination codes {('CYQM', 'CYUL'), ('CYQM', 'CYYY'), ('CYQM', 'CYOW'), ('CYQM', 'CYYZ'), ('CYQM', 'CYYC')}
+
+Start time: 2025-09-14 22:30:00+00:00 End time 2025-09-15 22:30:00+00:00 destination codes {('CYXY', 'CYEG'), ('CYXY', 'CYDA'), ('CYXY', 'CYOC'), ('CYXY', 'CYYC'), ('CYXY', 'CYVR')}
+
+Start time: 2025-09-14 23:50:00+00:00 End time 2025-09-15 23:50:00+00:00 destination codes {('CYMM', 'CYYC'), ('CYMM', 'CYEG')}
+
+Start time: 2025-09-14 21:55:00+00:00 End time 2025-09-15 21:55:00+00:00 destination codes {('CYKA', 'CYVR'), ('CYKA', 'CYYJ'), ('CYKA', 'CYYC')}
+
+Start time: 2025-09-14 23:18:00+00:00 End time 2025-09-15 23:18:00+00:00 destination codes {('CYFC', 'CYUL'), ('CYFC', 'CYOW'), ('CYFC', 'CYYZ'), ('CYFC', 'CYTZ')}
+
+Start time: 2025-09-14 20:25:00+00:00 End time 2025-09-15 20:25:00+00:00 destination codes {('CYZF', 'CYHY'), ('CYZF', 'CYVQ'), ('CYZF', 'CYFS'), ('CYZF', 'CYCB'), ('CYZF', 'CYWJ'), ('CYZF', 'CYYC'), ('CYZF', 'CYWE'), ('CYZF', 'CYYH'), ('CYZF', 'CYVL'), ('CYZF', 'CYYZ'), ('CYZF', 'CYLK'), ('CYZF', 'CEM3'), ('CYZF', 'CYRA'), ('CYZF', 'CYVR'), ('CYZF', 'CYEG')}
+
+Start time: 2025-09-14 20:25:00+00:00 End time 2025-09-15 20:25:00+00:00 destination codes {('CYZF', 'CYHY'), ('CYZF', 'CYVQ'), ('CYZF', 'CYFS'), ('CYZF', 'CYCB'), ('CYZF', 'CYWJ'), ('CYZF', 'CYYC'), ('CYZF', 'CYWE'), ('CYZF', 'CYYH'), ('CYZF', 'CYVL'), ('CYZF', 'CYYZ'), ('CYZF', 'CYLK'), ('CYZF', 'CEM3'), ('CYZF', 'CYRA'), ('CYZF', 'CYVR'), ('CYZF', 'CYEG')}
+
+Start time: 2025-09-14 22:45:00+00:00 End time 2025-09-15 22:45:00+00:00 destination codes {('CYDF', 'CYYR'), ('CYDF', 'CYHZ'), ('CYDF', 'CYUL'), ('CYDF', 'CYYZ'), ('CYDF', 'CYYT'), ('CYDF', 'CYQM'), ('CYDF', 'CYQX')}
+
+Start time: 2025-09-15 00:35:00+00:00 End time 2025-09-16 00:35:00+00:00 destination codes {('CYFB', 'CYVM'), ('CYFB', 'CYYR'), ('CYFB', 'CYLC'), ('CYFB', 'CYGT'), ('CYFB', 'CYYC'), ('CYFB', 'CYAB'), ('CYFB', 'CYCY'), ('CYFB', 'CYRT'), ('CYFB', 'CYXP'), ('CYFB', 'CYOW'), ('CYFB', 'CYIO')}
+
+Start time: 2025-09-14 23:55:00+00:00 End time 2025-09-15 23:55:00+00:00 destination codes {('CYQU', 'CYYC'), ('CYQU', 'CYEG')}
+
+Start time: 2025-09-14 22:25:00+00:00 End time 2025-09-15 22:25:00+00:00 destination codes {('CYZP', 'CYVR')}
+
+Start time: 2025-09-15 20:05:00+00:00 End time 2025-09-16 20:05:00+00:00 destination codes {('CYVM', 'CYXP')}
+
+None for CYAX
+
